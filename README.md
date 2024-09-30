@@ -28,7 +28,7 @@ Sou apaixonado por livros, filmes, séries, games e meus animais de estimação.
 Todas minhas formas de contato e mais detalhes voce pode conferir nesse projeto:  
 ### [Clique aqui!](https://ronaldornd.vercel.app/)
 
-<center>
+<center style="display:flex; flexDirection:row; gap:1rem">
 <img src="https://github-readme-stats.vercel.app/api?username=ronaldornd&show_icons=true&theme=chartreuse-dark" width="50%"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldornd&layout=compact&theme=chartreuse-dark" width="50%"/>
 
 </center>
