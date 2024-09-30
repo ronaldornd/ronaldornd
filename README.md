@@ -29,6 +29,6 @@ Todas minhas formas de contato e mais detalhes voce pode conferir nesse projeto:
 ### [Clique aqui!](https://ronaldornd.vercel.app/)
 
 <center>
-![Ronaldornd GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldornd&show_icons=true&theme=chartreuse-dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldornd&layout=compact&theme=chartreuse-dark)
+<img src="https://github-readme-stats.vercel.app/api?username=ronaldornd&show_icons=true&theme=chartreuse-dark"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldornd&layout=compact&theme=chartreuse-dark"/>
 
 </center>
