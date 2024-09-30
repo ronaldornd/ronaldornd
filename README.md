@@ -3,18 +3,17 @@ Olá! Meu nome é Ronaldo da Silva Barbosa.
 Sou apaixonado por livros, filmes, séries, games e meus animais de estimação. 🐶🤍😺
 
 ## Habilidades e Tecnologias
-<center>
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="10rem"> HTML 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="10rem"> CSS
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="10rem"> JavaScript
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="10rem"> React
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="10rem"> Node.js
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="10rem"> Java |
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="10rem"> HTML 
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="10rem"> CSS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="10rem"> JavaScript
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="10rem"> React
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="10rem"> Node.js
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="10rem"> Java
 <br>e Conhecimento básico em TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="10rem">
-</center>
 
 ## Experiência Profissional
-- Monitor na escola onde me formei no curso de Informática para Internet
+- Monitor na Instituição onde me formei no curso de Informática para Internet
 
 ## Educação
 |Curso|Certificado|
