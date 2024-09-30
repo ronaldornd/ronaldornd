@@ -28,3 +28,4 @@ Sou apaixonado por livros, filmes, séries, games e meus animais de estimação.
 Todas minhas formas de contato e mais detalhes voce pode conferir nesse projeto:  
 ### [Clique aqui!](https://ronaldornd.vercel.app/)
 
+![Ronaldornd GitHub stats](https://github-readme-stats.vercel.app/api?username=ronaldornd&show_icons=true&theme=radical)
