@@ -12,20 +12,9 @@ Sou apaixonado por livros, filmes, séries, games e meus animais de estimação.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="10rem"> Java
 <br>e Conhecimento básico em TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="10rem">
 
-## Experiência Profissional
-- Monitor na Instituição onde me formei no curso de Informática para Internet
+## Contato, Educação e Experiência Profissional
 
-## Educação
-|Curso|Certificado|
-|-----|-----|
-|Informatica para Internet| [Em processo de emissão]()|
-|Príncipios do Git e Github| [Visualizar ](https://www.dio.me/certificate/CKVALOYS/share)|
-|Autenticações| [Visualizar ](https://www.dio.me/certificate/Q1YHNGGN/share)|
-|Colaboração no Github| [Visualizar ](https://www.dio.me/certificate/5OWKT3Z1/share)|
-|Formatação com Markdown| [Visualizar ](https://www.dio.me/certificate/ZZPJZ5E5/share)|
-
-## Contato
-Todas minhas formas de contato e mais detalhes voce pode conferir nesse projeto:  
+Todas minhas formas de contato e mais detalhes sobre mim voce pode conferir nesse projeto:  
 ### <div style="width: 45rem; justify-items: center;">[Clique aqui!](https://ronaldornd.vercel.app/)</div>
 
 </div>
