@@ -1,20 +1,34 @@
-## Sobre Mim
-Olá! Meu nome é Ronaldo da Silva Barbosa. 
-Sou apaixonado por livros, filmes, séries, games e meus animais de estimação. 🐶🤍😺
+# Ronaldo da Silva Barbosa
+Desenvolvedor Front-end (React) • TypeScript • Vite • Apps Web/Mobile
 
-## Habilidades e Tecnologias
+**Portfólio:** https://ronaldornd.vercel.app  
+**E-mail:** ronaldo.s.barbosa@outlook.com
+---
 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="10rem"> HTML 
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="10rem"> CSS
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="10rem"> JavaScript
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="10rem"> React
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="10rem"> Node.js
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="10rem"> Java
-<br>e Conhecimento básico em TypeScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="10rem">
+## Qualidade (CI)
+[![EnfeTech CI](https://github.com/ronaldornd/enfetech/actions/workflows/ci.yml/badge.svg)](https://github.com/ronaldornd/enfetech/actions/workflows/ci.yml)
+[![Profile CI](https://github.com/ronaldornd/rnd-profile/actions/workflows/ci.yml/badge.svg)](https://github.com/ronaldornd/rnd-profile/actions/workflows/ci.yml)
 
-## Contato, Educação e Experiência Profissional
+---
 
-Todas minhas formas de contato e mais detalhes sobre mim voce pode conferir nesse projeto:  
-### <div style="width: 45rem; justify-items: center;">[Clique aqui!](https://ronaldornd.vercel.app/)</div>
+## Métricas GitHub
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ronaldornd&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaldornd&layout=compact&langs_count=8" />
+</p>
 
-</div>
+<p align="left">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ronaldornd" />
+</p>
+
+---
+
+## Stack (foco atual)
+**Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind  
+**Ferramentas:** GitHub Actions, Vite, Figma (se usar)  
+**Back-end (familiar):** Node.js, Express, Prisma (se usar), Supabase (se usar)
+
+---
+
+## Objetivo
+Busco oportunidades como **<front-end júnior / estágio / freela>** para construir interfaces modernas, acessíveis e performáticas.
