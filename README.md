@@ -26,4 +26,4 @@ Desenvolvedor Front-end (React) • TypeScript • Vite • Apps Web/Mobile
 ---
 
 ## Objetivo
-Busco oportunidades como **<front-end júnior / estágio / freela>** para construir interfaces modernas, acessíveis e performáticas.
+Busco oportunidades cpara construir interfaces modernas, acessíveis e performáticas.
