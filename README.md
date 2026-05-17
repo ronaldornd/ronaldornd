@@ -1,5 +1,5 @@
 # Ronaldo da Silva Barbosa
-Desenvolvedor Front-end (React) • TypeScript • Vite • Apps Web/Mobile
+Desenvolvedor Fullstack
 
 **Portfólio:** https://ronaldornd.vercel.app  
 **E-mail:** ronaldo.s.barbosa@outlook.com
